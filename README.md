@@ -2,6 +2,8 @@
 
 A simple and intuitive weather app that provides the current weather report for any city you enter. Built using HTML, CSS, and JavaScript, this app fetches real-time data from the [OpenWeather API](https://openweathermap.org/api).  
 
+Quick launch the app: [Weather App Live](https://weatherrrrrrr-app.netlify.app/)
+
 ## Features  
 - Search for weather by city name.  
 - Displays key weather details like temperature, weather conditions, and more.  
@@ -24,4 +26,3 @@ A simple and intuitive weather app that provides the current weather report for 
 
 3. Open the index.html file in your browser.
 
-## Quick launch the app: Weather App Live
