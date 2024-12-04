@@ -1,8 +1,12 @@
 # Weather App 🌦️  
 
+![image](https://github.com/user-attachments/assets/c05ee4f5-ad97-4929-a977-d8edee48893d)
+![image](https://github.com/user-attachments/assets/33e49cac-648d-4fdb-b748-6cefe48dffbe)
+
+
 A simple and intuitive weather app that provides the current weather report for any city you enter. Built using HTML, CSS, and JavaScript, this app fetches real-time data from the [OpenWeather API](https://openweathermap.org/api).  
 
-Quick launch the app: [Weather App Live](https://weatherrrrrrr-app.netlify.app/)
+Quick launch: [Weather App Live](https://weatherrrrrrr-app.netlify.app/)
 
 ## Features  
 - Search for weather by city name.  
